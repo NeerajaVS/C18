@@ -1,2 +1,2 @@
-# C18
-Trex colour
+# PROC18-V3ColorfullTrex
+Colorful Trex
